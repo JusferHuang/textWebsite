@@ -1,0 +1,1 @@
+import{_ as e}from"./index.a811efb1.js";import{o,a as s}from"./vendor.e02a23f2.js";const r={},t={class:"fs-xl"};function a(n,c,_,f,i,p){return o(),s("div",t," JoinUs ")}var m=e(r,[["render",a]]);export{m as default};

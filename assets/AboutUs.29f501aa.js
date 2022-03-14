@@ -1,0 +1,1 @@
+import{_ as e}from"./index.a811efb1.js";import{o,a as s}from"./vendor.e02a23f2.js";const t={data(){return{}},created(){console.log("AboutUs")}},r={class:"fs-xl"};function a(c,n,_,d,f,p){return o(),s("div",r," ABOUTUS ")}var u=e(t,[["render",a]]);export{u as default};
