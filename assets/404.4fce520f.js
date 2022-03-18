@@ -1,0 +1,1 @@
+import{_ as e}from"./index.cc52ab17.js";import{o,a as s}from"./vendor.05b29df3.js";const t={setup(){},created(){console.log("404")}},c={class:"fs-xxl text-2"};function r(a,n,_,d,p,f){return o(),s("div",c,"404")}var x=e(t,[["render",r]]);export{x as default};

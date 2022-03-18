@@ -1,0 +1,1 @@
+import{_ as e}from"./index.cc52ab17.js";import{o,a as s}from"./vendor.05b29df3.js";const r={setup(){},created(){console.log("/user/upload")}},a={class:"fs-xxl"};function t(c,n,d,p,l,_){return o(),s("div",a,"/user/upload")}var i=e(r,[["render",t]]);export{i as default};
