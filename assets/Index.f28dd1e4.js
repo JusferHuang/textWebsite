@@ -1,1 +1,0 @@
-import{_ as e}from"./index.cc52ab17.js";import{o as s,a as o}from"./vendor.05b29df3.js";const t={setup(){},created(){console.log("user/index")}},r={class:"fs-xl text-2"};function c(n,a,d,_,i,p){return s(),o("div",r,"user/index")}var l=e(t,[["render",c]]);export{l as default};

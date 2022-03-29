@@ -1,1 +1,0 @@
-import{_ as o}from"./index.cc52ab17.js";import{o as e,a as s}from"./vendor.05b29df3.js";const t={data(){return{}},created(){console.log("AboutUs")}},r={class:"fs-xl"};function a(c,n,d,_,f,p){return e(),s("div",r," ABOUTUS ")}var u=o(t,[["render",a]]);export{u as default};
