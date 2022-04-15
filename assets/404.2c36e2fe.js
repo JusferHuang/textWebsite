@@ -1,1 +1,0 @@
-import{_ as e}from"./index.bd4ae99b.js";import{a,o as r}from"./vendor.040aed3a.js";const t={class:"main flex jc-center ai-center fs-xxl text-2"};var s=e({setup(){},created(){}},[["render",function(e,s,d,n,o,c){return r(),a("div",t,"404")}],["__scopeId","data-v-75a33b02"]]);export default s;

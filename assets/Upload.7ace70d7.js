@@ -1,0 +1,1 @@
+import{_ as o}from"./index.cb27adba.js";import{o as e,a as s}from"./vendor.4246df52.js";const r={setup(){},created(){console.log("/user/upload")}},t={class:"fs-xxl"};function a(c,p,n,l,_,d){return e(),s("div",t,"/user/upload")}var i=o(r,[["render",a]]);export{i as default};

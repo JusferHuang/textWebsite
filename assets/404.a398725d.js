@@ -1,0 +1,1 @@
+import{_ as e}from"./index.cb27adba.js";import{o as t,a as _}from"./vendor.4246df52.js";const o={setup(){},created(){console.log("404")}},a={class:"main flex jc-center ai-center fs-xxl text-2"};function s(c,r,n,p,d,l){return t(),_("div",a,"404")}var u=e(o,[["render",s],["__scopeId","data-v-75a33b02"]]);export{u as default};

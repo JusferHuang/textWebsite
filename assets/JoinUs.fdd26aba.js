@@ -1,0 +1,1 @@
+import{_ as o}from"./index.cb27adba.js";import{o as s,a as e}from"./vendor.4246df52.js";const t={},r={class:"fs-xl"};function a(c,n,_,i,p,f){return s(),e("div",r," JoinUs ")}var m=o(t,[["render",a]]);export{m as default};
