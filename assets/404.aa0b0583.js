@@ -1,0 +1,1 @@
+import{a as e}from"./index.f2b87a9d.js";import{z as a,A as t}from"./vue.e821b4ff.js";const r={class:"main flex jc-center ai-center fs-xxl text-2"};var s=e({setup(){},created(){}},[["render",function(e,s,f,n,c,d){return a(),t("div",r,"404")}],["__scopeId","data-v-75a33b02"]]);export{s as default};

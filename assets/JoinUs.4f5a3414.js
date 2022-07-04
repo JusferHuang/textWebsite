@@ -1,0 +1,1 @@
+import{a as s}from"./index.f2b87a9d.js";import{z as r,A as a}from"./vue.e821b4ff.js";const e={class:"fs-xl"};var f=s({},[["render",function(s,f,o,n,t,i){return r(),a("div",e," JoinUs ")}]]);export{f as default};

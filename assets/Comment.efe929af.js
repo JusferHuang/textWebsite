@@ -1,0 +1,1 @@
+import{a as r}from"./index.f2b87a9d.js";import{z as e,A as a}from"./vue.e821b4ff.js";const s={class:"text-red"};var t=r({},[["render",function(r,t,f,o,d,n){return e(),a("div",s,"COMMENT")}]]);export{t as default};
